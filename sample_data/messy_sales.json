@@ -1,0 +1,162 @@
+[
+  {
+    "Order ID": 1001,
+    "Order Date": "2024-01-05",
+    "Region ": "North",
+    "Product": "Laptop",
+    "Quantity": 2.0,
+    "Total Sales ($)": "$2,400"
+  },
+  {
+    "Order ID": 1002,
+    "Order Date": "2024-01-12",
+    "Region ": "South",
+    "Product": "Phone",
+    "Quantity": 5.0,
+    "Total Sales ($)": "$3,000"
+  },
+  {
+    "Order ID": 1003,
+    "Order Date": "2024-02-03",
+    "Region ": "East",
+    "Product": "Tablet",
+    "Quantity": 3.0,
+    "Total Sales ($)": "$1,500"
+  },
+  {
+    "Order ID": 1004,
+    "Order Date": "2024-02-14",
+    "Region ": "West",
+    "Product": "Laptop",
+    "Quantity": 1.0,
+    "Total Sales ($)": "$1,200"
+  },
+  {
+    "Order ID": 1005,
+    "Order Date": "2024-03-01",
+    "Region ": "north ",
+    "Product": "Monitor",
+    "Quantity": 4.0,
+    "Total Sales ($)": "$1,600"
+  },
+  {
+    "Order ID": 1006,
+    "Order Date": "2024-03-09",
+    "Region ": "South",
+    "Product": "Phone",
+    "Quantity": 2.0,
+    "Total Sales ($)": "$1,200"
+  },
+  {
+    "Order ID": 1007,
+    "Order Date": "2024-03-21",
+    "Region ": "East",
+    "Product": "Laptop",
+    "Quantity": 3.0,
+    "Total Sales ($)": "$3,600"
+  },
+  {
+    "Order ID": 1008,
+    "Order Date": "2024-04-02",
+    "Region ": "West",
+    "Product": "Tablet",
+    "Quantity": 6.0,
+    "Total Sales ($)": "$3,000"
+  },
+  {
+    "Order ID": 1009,
+    "Order Date": "2024-04-15",
+    "Region ": "North",
+    "Product": "Phone",
+    "Quantity": 4.0,
+    "Total Sales ($)": "N/A"
+  },
+  {
+    "Order ID": 1010,
+    "Order Date": "2024-05-07",
+    "Region ": "South",
+    "Product": "Monitor",
+    "Quantity": null,
+    "Total Sales ($)": "$2,000"
+  },
+  {
+    "Order ID": 1011,
+    "Order Date": "2024-05-19",
+    "Region ": "East",
+    "Product": "Phone",
+    "Quantity": 3.0,
+    "Total Sales ($)": "$1,800"
+  },
+  {
+    "Order ID": 1012,
+    "Order Date": "2024-06-01",
+    "Region ": "West",
+    "Product": "Laptop",
+    "Quantity": 2.0,
+    "Total Sales ($)": "$2,400"
+  },
+  {
+    "Order ID": 1012,
+    "Order Date": "2024-06-01",
+    "Region ": "West",
+    "Product": "Laptop",
+    "Quantity": 2.0,
+    "Total Sales ($)": "$2,400"
+  },
+  {
+    "Order ID": 1013,
+    "Order Date": "15/06/2024",
+    "Region ": "North",
+    "Product": "Tablet",
+    "Quantity": 5.0,
+    "Total Sales ($)": "$2,500"
+  },
+  {
+    "Order ID": 1014,
+    "Order Date": "2024-06-28",
+    "Region ": null,
+    "Product": "Phone",
+    "Quantity": 3.0,
+    "Total Sales ($)": "$1,800"
+  },
+  {
+    "Order ID": 1015,
+    "Order Date": "2024-07-04",
+    "Region ": "South",
+    "Product": "Laptop",
+    "Quantity": 1.0,
+    "Total Sales ($)": "$1,200"
+  },
+  {
+    "Order ID": 1016,
+    "Order Date": "2024-07-22",
+    "Region ": "East",
+    "Product": "Monitor",
+    "Quantity": 2.0,
+    "Total Sales ($)": "$800"
+  },
+  {
+    "Order ID": 1017,
+    "Order Date": "2024-08-10",
+    "Region ": "West",
+    "Product": "Phone",
+    "Quantity": 4.0,
+    "Total Sales ($)": "$2,400"
+  },
+  {
+    "Order ID": 1018,
+    "Order Date": "2024-08-25",
+    "Region ": "North",
+    "Product": "Laptop",
+    "Quantity": 90.0,
+    "Total Sales ($)": "$108,000"
+  },
+  {
+    "Order ID": 1019,
+    "Order Date": "2024-09-02",
+    "Region ": "South",
+    "Product": "Tablet",
+    "Quantity": 3.0,
+    "Total Sales ($)": "null"
+  }
+]

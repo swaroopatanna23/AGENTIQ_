@@ -1,0 +1,6 @@
+# AgentIQ offline settings: nothing is sent to the internet.
+[browser]
+gatherUsageStats = false   # no usage statistics
+
+[server]
+headless = true            # do not try to open/contact anything automatically

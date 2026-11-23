@@ -1,0 +1,10 @@
+# AgentIQ - all Python dependencies (Members 1-4). Install with:  pip install -r requirements.txt
+pandas>=2.0.0          # data processing / validation (Member 4), chart engine (Member 3)
+numpy>=1.24.0
+matplotlib>=3.7.0      # Chart Generation Engine (Member 3)
+openpyxl>=3.1.0        # read .xlsx files
+xlrd>=2.0.1            # read old .xls files
+streamlit>=1.30.0      # Frontend (Member 1)
+plotly>=5.18.0         # Dashboard charts (Member 1)
+ollama>=0.6.3          # Python client for the LOCAL Ollama server used by Qwen (Member 2)
+pytest>=7.0.0          # to run the tests in tests/
